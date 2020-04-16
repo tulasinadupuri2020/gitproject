@@ -1,0 +1,1 @@
+Sample file added in feature branch from git.
